@@ -1,0 +1,17 @@
+{
+  "name": "quoi-bot",
+  "version": "0.1.0",
+  "description": "A twitterbot that answer \"feur\" after the word \"quoi\" is tweeted by someone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zolder",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
